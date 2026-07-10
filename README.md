@@ -1,6 +1,6 @@
 # Mon Premier RAG
 
-RAG minimal mais complet : ChromaDB + sentence-transformers + Groq + agent modérateur.
+mini RAG : ChromaDB + sentence-transformers + Groq + agent modérateur.
 
 ## Architecture
 
@@ -27,12 +27,10 @@ pip install -r requirements.txt
 
 ## Configuration
 
-1. Créer un fichier `.env` à la racine :
+Créer un fichier `.env` à la racine :
 ```
 GROQ_API_KEY=votre_clé_ici
 ```
-
-2. Obtenir une clé API sur [console.groq.com](https://console.groq.com)
 
 ## Utilisation
 
