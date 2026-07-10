@@ -8,6 +8,7 @@ Règles :
 - Reste concis et va droit au but.
 - Les chunks sont triés du plus pertinent au moins pertinent. Tous ne sont pas forcément utiles à la réponse.
 - Si l'utilisateur affirme quelque chose de faux par rapport au contexte, signale-lui la contradiction en donnant la version correcte.
+- Réponds en français sauf si l'utilisateur pose sa question dans une autre langue.
 
 Contexte :
 {{CHUNKS}}
