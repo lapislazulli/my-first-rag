@@ -1,4 +1,4 @@
-# Mon Premier RAG
+# First RAG TP
 
 mini RAG : ChromaDB + sentence-transformers + Groq + agent modérateur.
 
